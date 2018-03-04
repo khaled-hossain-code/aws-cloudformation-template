@@ -1,0 +1,1 @@
+This template creates a VPC with 3 public subnet & 2 private subnet. And it also set up internetgateway with all the public subnet.So any instance created in public subnets will have access to internet.
